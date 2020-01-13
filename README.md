@@ -19,3 +19,5 @@ npm i
 npm run dev
 ```
 This will open a browser window and launch the game. You can now edit any of your files in <code>src/</code> or <code>resources/</code> and the game will automatically get rebuilt and the browser page will refresh. Pretty cool! You can debug and set break points in the Typescript source using the Developer Tab window in Chrome.
+
+[![Run on Repl.it](https://repl.it/badge/github/Little-Nomster/the-gems-game)](https://repl.it/github/Little-Nomster/the-gems-game)
